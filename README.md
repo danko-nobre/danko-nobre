@@ -12,7 +12,7 @@ This is my GitHub profile. You might find it a bit messy, but it's cozy and it'
 
 🎮 I have experience as a 3D Generalist with **Blender**, **3D Coat** and **ZBrush** for creating characters, scenarios and animations for game dev. Although most of my projects haven't been completed, they have given me deep expertise in modeling, texturing, rigging, and animation.
 
-💼 Currently, I work as a web dev at the [Brazilian Superior Electoral Court (TSE)](https://www.tse.jus.br/), where I contribute to the development of educational solutions benefiting both internal staff and the general public, reaching over 2 million users every electoral year.
+💼 Currently, I work as a web dev at the [Brazilian Superior Electoral Court (TSE)](https://international.tse.jus.br/en), where I contribute to the development of educational solutions benefiting both internal staff and the general public, reaching over 2 million users every electoral year.
 
 ---
 
