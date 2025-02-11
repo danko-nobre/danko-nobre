@@ -1,6 +1,8 @@
 # Hi there, I'm Danko! 👋
 
-This is my GitHub profile. You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
+This is my GitHub profile.
+
+You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## About me
 
@@ -30,7 +32,6 @@ This is my GitHub profile. You might find it a bit messy, but it's cozy and it'
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
