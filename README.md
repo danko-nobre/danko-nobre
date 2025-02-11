@@ -6,11 +6,11 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## About me
 
-🤓 I'm a self-taught developer with knowledge in **TypeScript** and **JavaScript** for front-end solutions, specializing in frameworks like **Tailwind** and **React** for great UX solutions focusing on acessibility and interactivity. I also have experience in backend technologies like **PHP**, **SQL**, and **Node.js**, enabling me to build full-stack applications and API integrations with ease.
+🤓 I'm a self-taught developer with knowledge in **TypeScript** and **JavaScript** for front-end solutions, specializing in frameworks like **Tailwind** and **React** for UX solutions focused on interactivity and acessibility. I also have experience in backend technologies like **PHP**, **SQL**, and **Node.js**, enabling me to build full-stack applications and API integrations with ease.
 
 ❤️ I'm passionate about technology and I'm constantly exploring new tech in both game and web development.
 
-👨‍🚀 I'm the project manager at [Space Wizard Studios](https://spacewiz.dev/) - small company I co-founded, where we produce creative solutions such as websites, native / mobile applications, and other media. Our latest projects have prominently featured Astro, framework I’ve grown particularly fond of.
+👨‍🚀 As project manager at [Space Wizard Studios](https://spacewiz.dev/) - small company I co-founded - I develop creative solutions such as websites, native / mobile applications, and other media. Our latest projects have prominently featured [Astro](https://astro.build/), framework I’ve grown particularly fond of.
 
 🎮 I have experience as a 3D Generalist with **Blender**, **3D Coat** and **ZBrush** for creating characters, scenarios and animations for game dev. Although most of my projects haven't been completed, they have given me deep expertise in modeling, texturing, rigging, and animation.
 
