@@ -20,8 +20,8 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## 📊 GitHub Stats
 
-![Danko's GitHub stats](https://github-readme-stats.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Danko's GitHub stats](https://github-readme-stats-chi-six-89.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true)
+![Most used Languages](https://github-readme-stats-chi-six-89.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ---
 
