@@ -20,12 +20,10 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/danko-nobre">
-<img height=200 align="center" src="http://danko-github-readme-stats.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/danko-nobre">
-<img height=200 align="center" src="http://danko-github-readme-stats.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" />
-</a>
+<div>
+  <img style='height: 12rem' align="center" src="http://danko-github-readme-stats.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true" />
+  <img style='height: 12rem' align="center" src="http://danko-github-readme-stats.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" />
+</div>
 
 ---
 
