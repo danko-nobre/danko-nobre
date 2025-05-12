@@ -20,8 +20,12 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## 📊 GitHub Stats
 
-![Danko's GitHub stats](http://danko-github-readme-stats.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true)
-![Most used Languages](http://danko-github-readme-stats.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
+<a href="https://github.com/danko-nobre">
+<img height=200 align="center" src="http://danko-github-readme-stats.vercel.app/api?username=danko-nobre&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/danko-nobre">
+<img height=200 align="center" src="http://danko-github-readme-stats.vercel.app/api/top-langs/?username=danko-nobre&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8" />
+</a>
 
 ---
 
