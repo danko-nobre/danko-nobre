@@ -6,7 +6,7 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ## About me
 
-🤓 I'm a self-taught developer with knowledge in **TypeScript** and **JavaScript** for front-end solutions, specializing in frameworks like **Tailwind** and **React** for UX solutions focused on interactivity and acessibility. I also have experience in backend technologies like **PHP**, **SQL**, and **Node.js**, enabling me to build full-stack applications and API integrations with ease.
+🤓 I'm a self-taught developer with a solid grasp of TypeScript and JavaScript, focused on front end development using frameworks like React and Tailwind CSS to build interactive and accessible user experiences. My skill set also extends to the back end, with experience in PHP, SQL, and Node.js, enabling me to develop full stack applications and seamless API integrations.
 
 ❤️ I'm passionate about technology and I'm constantly exploring new tech in both game and web development.
 
