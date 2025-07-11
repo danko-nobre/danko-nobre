@@ -18,6 +18,13 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 
 ---
 
+## 🥰 My Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/danko.nobre)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/danilo-nobre/)
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div>
@@ -83,9 +90,3 @@ You might find it a bit messy, but it's cozy and it's mine. 🤗🧦🧣☕
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
----
-
-## 🥰 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/danko.nobre)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/danilo-nobre/)
